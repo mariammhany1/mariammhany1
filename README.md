@@ -1,16 +1,35 @@
-## Hi there 👋
+Hi there! 👋 I’m Mariam
 
-<!--
-**mariammhany1/mariammhany1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Computer Science student at Assiut University, Egypt.
 
-Here are some ideas to get you started:
+💻 Aspiring software engineer focused on building a strong foundation in programming, problem-solving, and computer science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning through hands-on practice, personal projects, and continuous exploration of emerging technologies.
+
+🚀 Areas of Interest
+
+* Software Engineering
+* Artificial Intelligence
+* Problem Solving
+* Web Development
+* Emerging Technologies
+
+🌍 Languages
+
+* Arabic — Native
+* English — B2
+* German — A2 (Goethe-Institut)
+
+🎯 Current Focus
+
+* Strengthening my programming and problem-solving skills.
+* Developing practical projects that turn ideas into solutions.
+* Exploring software engineering and artificial intelligence.
+* Building a consistent learning and development journey.
+* Connecting with like-minded developers and contributing to the tech community.
+
+🤝 Let’s Connect!
+
+* LinkedIn: https://www.linkedin.com/in/mariam-mhany-118662431
+
+✨ Committed to learning continuously, creating meaningful solutions, and growing as a future software engineer.
